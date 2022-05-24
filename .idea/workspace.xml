@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c98778c4-7869-43bd-972b-5bd7b6ff1dcd" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="20BIocjd3nBUf5xEfBatFpEvJep" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="PLAIN_TEXT" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../前端" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WebstormProjects\untitled\static\lib\waypoints" />
+      <recent name="E:\WebstormProjects\untitled\static\lib\scrollTo" />
+      <recent name="E:\WebstormProjects\untitled\static\lib\qrcode" />
+      <recent name="E:\WebstormProjects\untitled\static\lib\tocbot" />
+      <recent name="E:\WebstormProjects\untitled\static\lib\prism" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\WebstormProjects\untitled\static\images" />
+      <recent name="E:\WebstormProjects\untitled\static\lib\tocbot" />
+      <recent name="E:\WebstormProjects\untitled\static\lib\prism" />
+      <recent name="E:\WebstormProjects\untitled\static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/rolling/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/untitled/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c98778c4-7869-43bd-972b-5bd7b6ff1dcd" name="Changes" comment="" />
+      <created>1635511731099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635511731099</updated>
+      <workItem from="1635511732611" duration="10688000" />
+      <workItem from="1635563552329" duration="28513000" />
+      <workItem from="1635608818039" duration="596000" />
+      <workItem from="1635650780250" duration="18741000" />
+      <workItem from="1635691844030" duration="7791000" />
+      <workItem from="1635739895845" duration="2645000" />
+      <workItem from="1635770461302" duration="9611000" />
+      <workItem from="1635822464351" duration="2000" />
+      <workItem from="1635853010782" duration="4222000" />
+      <workItem from="1636121266513" duration="10295000" />
+      <workItem from="1636172176544" duration="10722000" />
+      <workItem from="1636187363317" duration="1882000" />
+      <workItem from="1636259933038" duration="595000" />
+      <workItem from="1636260775621" duration="11000" />
+      <workItem from="1636262484198" duration="888000" />
+      <workItem from="1636273059699" duration="1194000" />
+      <workItem from="1636296561272" duration="26000" />
+      <workItem from="1636449779031" duration="235000" />
+      <workItem from="1636703065787" duration="47000" />
+      <workItem from="1636703175218" duration="1060000" />
+      <workItem from="1637332588546" duration="112000" />
+      <workItem from="1638084122014" duration="124000" />
+      <workItem from="1652105604211" duration="5714000" />
+      <workItem from="1652167910716" duration="1869000" />
+      <workItem from="1652192373663" duration="6869000" />
+      <workItem from="1652275260312" duration="6374000" />
+      <workItem from="1652444875367" duration="1630000" />
+      <workItem from="1652497661328" duration="7695000" />
+      <workItem from="1652607229250" duration="822000" />
+      <workItem from="1652664361626" duration="3394000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
